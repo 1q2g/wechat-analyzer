@@ -1,6 +1,6 @@
 # WeChat Analyzer
 
-Extract, analyze, and visualize WeChat chat history with AI-powered insights.
+Extract, analyze, and visualize WeChat chat history with AI-powered insights.Tested based on WeChat version 4.1.9.55. It supports multi-dimensional analysis of chat records including private chats, group chats and all records, and can generate analysis reports in PDF format. It can connect to the official WeChat ClawBot and be used directly in WeChat chat windows.
 
 > **⚠️ Disclaimer**: This project is for **educational and research purposes only**. Using it may violate WeChat's Terms of Service. Use at your own risk. Always respect others' privacy.
 
@@ -14,6 +14,10 @@ Extract, analyze, and visualize WeChat chat history with AI-powered insights.
 - **Identify** contacts via MD5 session mapping
 - **Parse** merge-forward (combined) messages
 - **Schedule** hourly exports via Windows Task Scheduler
+
+## Partial renderings
+<img width="861" height="912" alt="061cc740aa9d264dd24f6683ee6cecd3" src="https://github.com/user-attachments/assets/06155183-06a9-4fbc-9b6e-0945a3384818" />
+<img width="1119" height="1002" alt="7e58fc833a62646f17dba022d2d0402b" src="https://github.com/user-attachments/assets/d8974096-0721-4dd4-9ced-62f2be28c1b4" />
 
 ## Architecture
 
