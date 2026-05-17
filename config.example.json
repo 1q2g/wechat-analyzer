@@ -1,0 +1,8 @@
+{
+  "wxid": "wxid_your_account_here",
+  "db_suffix": "_00e5",
+  "wechat_data_dir": "~/xwechat_files",
+  "decrypt_script_dir": "~/weixin-decrypte-script",
+  "output_dir": "./exports",
+  "keys_cache": "./keys_cache.json"
+}

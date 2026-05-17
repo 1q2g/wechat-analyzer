@@ -1,0 +1,7 @@
+zstandard
+pycryptodome
+pymem
+psutil
+pywin32
+reportlab
+faker

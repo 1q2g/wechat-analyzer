@@ -1,0 +1,23 @@
+# WeChat Analyzer
+
+# Config
+config.json
+
+# Keys cache
+keys_cache.json
+
+# Exported chat records
+exports/
+
+# Temp files
+tmp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
